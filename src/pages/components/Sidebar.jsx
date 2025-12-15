@@ -228,9 +228,6 @@ const Sidebar = () => {
                       <span className="ml-3 text-sm font-medium">
                         {link.name}
                       </span>
-                      {/* {isActive && (
-                        <span className="ml-auto w-2 h-2 rounded-full bg-white"></span>
-                      )} */}
                     </button>
                   </li>
                 );
