@@ -27,7 +27,6 @@ const Category = () => {
     status: "active",
   });
 
-  // Sample category data
   const [categories, setCategories] = useState([
     {
       id: 1,
